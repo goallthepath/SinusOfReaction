@@ -1,0 +1,9 @@
+# Bestenliste entsteht beim Spielen und gehoert nicht ins Repository
+reaktionsspiel_bestenliste.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
